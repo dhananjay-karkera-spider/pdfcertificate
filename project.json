@@ -1,0 +1,9 @@
+{
+    "frameworks": {
+      "net46":{
+        "dependencies": {
+          "Select.HtmlToPdf": "17.1.0"
+        }
+      }
+     }
+  }

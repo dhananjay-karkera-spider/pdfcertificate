@@ -1,0 +1,10 @@
+{
+    "frameworks": {
+      "net46":{
+        "dependencies": {
+          "Select.HtmlToPdf": "17.1.0",
+          "Microsoft.AspNet.WebApi.Core" : "5.2.3"
+        }
+      }
+     }
+  }
